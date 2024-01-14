@@ -4,7 +4,7 @@ Using a model of Mexico City subway represented on a graph, the algorithm search
 Map:
 
 
-![Mexico City subway]([https://noticieros.nmas.com.mx/wp-content/uploads/2021/08/mapa-metro-cdmx-scaled.jpg](https://mexicocity.cdmx.gob.mx/wp-content/uploads/2019/10/plano_redconcalles19-768x1030.jpg))
+![Mexico city subway](https://metro-cdmx.com.mx/wp-content/uploads/2022/04/plano-metro-cdmx.png)
 ## Best route
 The best route is calculated taking the following time parameters:
 - initial time
